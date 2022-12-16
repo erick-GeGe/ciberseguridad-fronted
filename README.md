@@ -16,5 +16,6 @@ npm install
 ## Deploy
 Si se desea deployar simplemente descargue el repositorio en el servidor de hosting que deseen y podra deployarse automaticamente o tendra que agregar una configuracion para instalar los packetes y correr el proyecto 
 ```
-npm run start
+npm run dev
+npm run build
 ```
